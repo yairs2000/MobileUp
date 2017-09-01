@@ -1,0 +1,67 @@
+﻿@model IEnumerable<MobileUp.Models.Listings>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@section Styles
+{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css" />
+}
+
+
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table" id="tblListings">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ListingId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ListingId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ListingId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts
+    {
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#tblListings").dataTable();
+        });
+    </script>
+
+}
+
+

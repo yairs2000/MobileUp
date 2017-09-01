@@ -1,0 +1,668 @@
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\MobileUp.exe.config
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\MobileUp.deps.json
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\MobileUp.exe
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\MobileUp.pdb
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\Microsoft.AspNetCore.Mvc.Razor.ViewCompilation-x86.exe
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\netfx.force.conflicts.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\netstandard.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.AppContext.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.Specialized.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Console.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Data.Common.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Globalization.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.Compression.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.Pipes.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.Expressions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.Parallel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.Queryable.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Http.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.NameResolution.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Ping.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Requests.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Security.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Sockets.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.WebSockets.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.ObjectModel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Reflection.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Resources.Reader.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Resources.Writer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Handles.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Claims.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Principal.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.SecureString.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Text.Encoding.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Tasks.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Thread.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Timer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.ValueTuple.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XDocument.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XPath.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\libuv.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Win32.Registry.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Buffers.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.AccessControl.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Principal.Windows.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\netstandard.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.AppContext.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Collections.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Console.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Data.Common.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Globalization.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.Pipes.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Linq.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.Http.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.Ping.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.Requests.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.Security.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.ObjectModel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Resources.Reader.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Resources.Writer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Claims.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.Principal.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Security.SecureString.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encoding.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Timer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\obj\Debug\net461\MobileUp.csprojResolveAssemblyReference.cache
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\obj\Debug\net461\MobileUp.csproj.MobileUp.exe.config
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\obj\Debug\net461\MobileUp.csproj.CoreCompileInputs.cache
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\obj\Debug\net461\MobileUp.AssemblyInfoInputs.cache
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\obj\Debug\net461\MobileUp.AssemblyInfo.cs
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\obj\Debug\net461\MobileUp.exe
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\obj\Debug\net461\MobileUp.pdb
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Esent.Interop.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\NuGet.Frameworks.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Composition.AttributedModel.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Composition.Convention.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Composition.Hosting.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Composition.Runtime.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Composition.TypedParts.dll
+C:\Users\Aden\Documents\Visual Studio 2017\Projects\MobileUp\MobileUp\bin\Debug\net461\System.Data.SqlClient.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\MobileUp.exe.config
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\MobileUp.deps.json
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\MobileUp.exe
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\MobileUp.pdb
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\Microsoft.AspNetCore.Mvc.Razor.ViewCompilation-x86.exe
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\netfx.force.conflicts.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\netstandard.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.AppContext.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Collections.Specialized.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Console.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Data.Common.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Globalization.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.Compression.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.Pipes.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.Expressions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.Parallel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Linq.Queryable.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Http.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.NameResolution.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Ping.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Requests.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Security.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.Sockets.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Net.WebSockets.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.ObjectModel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Reflection.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Resources.Reader.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Resources.Writer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Handles.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Claims.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.Principal.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Security.SecureString.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Text.Encoding.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Tasks.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Thread.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Threading.Timer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.ValueTuple.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XDocument.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XPath.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\libuv.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Esent.Interop.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Win32.Registry.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\NuGet.Frameworks.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Buffers.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Composition.AttributedModel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Composition.Convention.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Composition.Hosting.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Composition.Runtime.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Composition.TypedParts.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Data.SqlClient.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.AccessControl.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Principal.Windows.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\netstandard.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.AppContext.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Collections.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Console.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Data.Common.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Globalization.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.Pipes.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Linq.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.Http.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.Ping.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.Requests.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.Security.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.ObjectModel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Resources.Reader.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Resources.Writer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Claims.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.Principal.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Security.SecureString.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encoding.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Threading.Timer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\obj\Debug\net461\MobileUp.csprojResolveAssemblyReference.cache
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\obj\Debug\net461\MobileUp.csproj.MobileUp.exe.config
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\obj\Debug\net461\MobileUp.csproj.CoreCompileInputs.cache
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\obj\Debug\net461\MobileUp.AssemblyInfoInputs.cache
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\obj\Debug\net461\MobileUp.AssemblyInfo.cs
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\obj\Debug\net461\MobileUp.exe
+C:\Users\ysegal\Desktop\MobileUp\MobileUp\MobileUp\obj\Debug\net461\MobileUp.pdb
